@@ -14,12 +14,14 @@ We're looking for a Software Engineer to join the Engineering team. This team is
 
 In this role, you will create UI helper libraries to help developers implement authentication, realtime, and other Appwrite integrations with less code. The UI helper library can be for Web, Flutter, iOS, or Android platforms. Some inspiration can be found from Firebase firebase_ui_auth and Firebase UI for Web. Appwrite’s Pink design system can be used as inspiration for UI.
 
+### Important Note
+Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months.
+
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
 | Assignment Deadline  | 15 May 2023  |
 | Octernship Duration  | 2 Months  |
-| Monthly Stipend  | $500 USD  |
 
 ### Recommended qualifications
 - Experience with Git & GitHub
