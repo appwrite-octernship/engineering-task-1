@@ -20,7 +20,7 @@ Working on the project serves as your application and it is unpaid. The payment 
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 15 May 2023  |
+| Assignment Deadline  | 15 April 2023  |
 | Octernship Duration  | 2 Months  |
 
 ### Recommended qualifications
