@@ -18,10 +18,13 @@ In this role, you will create UI helper libraries to help developers implement a
 Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months.
 
 
-| Octernship info  | Timelines and Stipend |
-| ------------- | ------------- |
-| Assignment Deadline  | 15 April 2023  |
-| Octernship Duration  | 2 Months  |
+| Octernship info      | Timelines             |
+| -------------        | --------------        |
+| Assignment Deadline  | 15 April 2023         |
+| Project Duration     | 6 weeks               |
+| Project Task Length  | < 1 week              |
+| Octernship Duration  | 3 months              |
+
 
 ### Recommended qualifications
 - Experience with Git & GitHub
