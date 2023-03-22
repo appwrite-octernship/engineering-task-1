@@ -57,6 +57,7 @@ Create UI helper libraries to help developers implement authentication, realtime
 1. Creating a new branch
 2. Making changes on the new branch to complete the project
 3. Opening a Pull Request for review
+4. Using GitHub Discussions to ask any relevant questions regarding the project
 
 ### Resources
 - Firebase Auth [firebase auth](https://pub.dev/packages/firebase_ui_auth)
